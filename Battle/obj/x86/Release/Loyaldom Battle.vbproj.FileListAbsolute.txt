@@ -1,0 +1,29 @@
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\Loyaldom Battle.vbproj.GenerateResource.Cache
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\bin\Release\BATTLE!.exe.manifest
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\bin\Release\BATTLE!.application
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\bin\Release\BATTLE!.exe
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\bin\Release\BATTLE!.pdb
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\bin\Release\BATTLE!.xml
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.exe.manifest
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.application
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.exe
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.xml
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.pdb
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.TrustInfo.xml
+C:\Users\William\documents\visual studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\Marc\Desktop\Loyaldom Battle\obj\x86\Release\BATTLE!.exe
+C:\Users\Marc\Desktop\Loyaldom Battle\obj\x86\Release\BATTLE!.xml
+C:\Users\Marc\Desktop\Loyaldom Battle\obj\x86\Release\BATTLE!.pdb
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.exe
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.xml
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\BATTLE!.pdb
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Loyaldom Battle\obj\x86\Release\Loyaldom Battle.vbproj.GenerateResource.Cache
