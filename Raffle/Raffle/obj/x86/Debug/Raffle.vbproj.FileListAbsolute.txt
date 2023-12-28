@@ -1,0 +1,9 @@
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\bin\Debug\Raffle.exe
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\bin\Debug\Raffle.pdb
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\bin\Debug\Raffle.xml
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\Raffle.vbproj.GenerateResource.Cache
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\Raffle.exe
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\Raffle.xml
+C:\Users\Marc\documents\visual studio 2010\Projects\Raffle\Raffle\obj\x86\Debug\Raffle.pdb
